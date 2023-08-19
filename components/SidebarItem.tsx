@@ -14,7 +14,7 @@ const SidebarItem: React.FC<SidebarItemProps> = ({
   label,
   active,
   href,
-}) => {
+}: SidebarItemProps) => {
   return (
     <Link
       href={href}
