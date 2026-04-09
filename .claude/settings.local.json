@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn audit:*)",
+      "Bash(yarn info:*)",
+      "Bash(yarn install:*)"
+    ]
+  }
+}
